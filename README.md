@@ -17,7 +17,7 @@ Data for the project was collected from:
 
 • Census.gov for historical housing units data
 
-• Bureau of Economic Analysis for historical investment data (GDP PI) and hostorical personal income data per county
+• Bureau of Economic Analysis for historical investment data (GDP PI) and historical personal income data per county
 
 • FRED for historical national investment dats 
 
